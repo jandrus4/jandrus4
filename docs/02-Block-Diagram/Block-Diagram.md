@@ -6,19 +6,9 @@ tags:
 ---
 
 ## Overview
-This needs to be updated with a brief purpose for having the block diagram.
-Things to mention are:
-* power levels
-* sensor
-* Actuator
-* team connections
-* Power source
-* ...
+This block diagram of Team 201's rudder subsystem shows a plug-in wall supply of 9V and 3A that is split between a 3.3V and 1.5A regulator as well as a 9V power rail for the stepper motors. This subsystem can connect using UART via pins RA3 and RA4 or RC2 and RC3.
 
-To get some initial formatting help, one can view ["here"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/) some basic techniques.
+## Rudder System Block Diagram 
+You can view the basic connections in this block diagram.
 
-
-## Example Block Diagram 
-Showing an example of how to import a screenshot of the block diagram created outside of git and brought into a page.
-
-![Example of Indivial Block diagram ](individual-block-diagram.png)
+![Initial Individual Block Diagram ](Initial_individual_block_diagram.pdf)
