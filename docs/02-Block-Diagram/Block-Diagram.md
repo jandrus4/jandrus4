@@ -11,4 +11,4 @@ This block diagram of Team 201's rudder subsystem shows a plug-in wall supply of
 ## Rudder System Block Diagram 
 You can view the basic connections in this block diagram.
 
-![Initial Individual Block Diagram ](Initial_individual_block_diagram.pdf)
+![Initial Individual Block Diagram ](Picture_individual_block_diagram.png)
