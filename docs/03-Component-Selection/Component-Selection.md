@@ -110,48 +110,50 @@ For more details, review the ["Appendix - Component Selection Process - Actuator
 
 **Motor Drivers**
 
-1. 
+1. DRV11873PWPR
 
-    ![]()
+    ![](first_driver.png)
 
-    * $/each
-    * [link to product]()
-
-    | Pros                                      | Cons                                                             |
-    | ----------------------------------------- | ---------------------------------------------------------------- |
-    | Larger solder pads for easier soldering   | Slightly more expensive                                          |
-    | Lots of components in stock               | Will take up more space on PCB                                   |
-
-2. 
-
-    ![]()
-
-    * $1.11/each
-    * [link to product]()
+    * $2.15/each
+    * [link to product](https://www.digikey.com/en/products/detail/texas-instruments/DRV11873PWPR/3903327)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
-    | Will take up less space on PCB            | Will need to check physical size of power supply                 |
-    | Lots of components in stock               | Smaller solder pads                                              |
-    | Slightly larger inner pin                 |
+    | Can use 1 driver for both motors          | Expensive                                                        |
+    | Can handle up to 17 V loads               | Takes up a lot space                                             |
+    | Versatile                                 | 18 week manufacturer lead time                                   | 
 
-3. 
+2. DRV10974PWPR
 
-    ![]()
+    ![](second_driver.png)
 
-    * $1.11/each
-    * [link to product]()
+    * $2.30/each
+    * [link to product](https://www.digikey.com/en/products/detail/texas-instruments/DRV10974PWPR/8635379)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
-    | Larger solder pads for easier soldering   | Smaller solder pads                                              |
-    | Lots of components in stock               | Slightly smaller inner pin                                       |
+    | Can use 1 driver for both motors          | More Expensive                                                   |
+    | Can handle up to 18 V loads               | Takes up a lot space                                             |
+    | Versatile                                 | 18 week manufacturer lead time                                   | 
 
-**Choice:** Option : 
+3. RS8837YK
 
-**Rationale:** 
+    ![](third_driver.png)
 
-**9 V stepper motors**
+    * $0.44/each
+    * [link to product](https://www.digikey.com/en/products/detail/runic-technology/RS8837YK/24819274)
+
+    | Pros                                      | Cons                                                             |
+    | ----------------------------------------- | ---------------------------------------------------------------- |
+    | Extremely cheap                           | Will have to use a driver for each stepper motor                 |
+    | 8 week manufacturer lead time             | Can only handle up to 14 V loads                                 |
+    | Can use 3.3 V to power the driver         |
+
+**Choice:** Option 3: RS8837YK
+
+**Rationale:** I can use the same voltage level to power the microcontroller and drivers and still be able to power the stepper motors. It also has the best manufacturer lead time and is the cheapest of the 3.
+
+**Stepper motors**
 
 1. 
 
