@@ -155,43 +155,43 @@ For more details, review the ["Appendix - Component Selection Process - Actuator
 
 **Stepper motors**
 
-1. 
+1. SM-5VDC-DRV
 
-    ![]()
+    ![](first_motor.png)
 
-    * $/each
-    * [link to product]()
-
-    | Pros                                      | Cons                                                             |
-    | ----------------------------------------- | ---------------------------------------------------------------- |
-    | Larger solder pads for easier soldering   | Slightly more expensive                                          |
-    | Lots of components in stock               | Will take up more space on PCB                                   |
-
-2. 
-
-    ![]()
-
-    * $1.11/each
-    * [link to product]()
+    * $2.96/each
+    * [link to product](https://www.digikey.com/en/products/detail/olimex-ltd/SM-5VDC-DRV/21662223)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
-    | Will take up less space on PCB            | Will need to check physical size of power supply                 |
-    | Lots of components in stock               | Smaller solder pads                                              |
-    | Slightly larger inner pin                 |
+    | 5 week manufacturer lead time             | Rated for 5 V                                                    |
+    | Inexpensive component                     | Incomplete datasheet                                             |
 
-3. 
+2. 108990003
 
-    ![]()
+    ![](second_motor.png)
 
-    * $1.11/each
-    * [link to product]()
+    * $4.50/each
+    * [link to product](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/108990003/5487797)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
-    | Larger solder pads for easier soldering   | Smaller solder pads                                              |
-    | Lots of components in stock               | Slightly smaller inner pin                                       |
+    | Easy to mount                             | Rated for 5 V                                                    |
+    | Lots of available inventory               | 33 week manufacturer lead time                                   |
+    | Somewhat inexpensive                      |
 
-**Choice:** Option : 
+3. FIT0278
 
-**Rationale:** 
+    ![](third_motor.png)
+
+    * $13.95/each
+    * [link to product](https://www.digikey.com/en/products/detail/dfrobot/FIT0278/6588458)
+
+    | Pros                                      | Cons                                                             |
+    | ----------------------------------------- | ---------------------------------------------------------------- |
+    | 9 week manufacturer lead time             | Rated for 3.4 V                                                  |
+    | Larger shaft for easy visualization       | Expensive                                                        |
+
+**Choice:** Option 3: FIT0278
+
+**Rationale:** Even though this is the most expensive motor, it has the closest rated voltage to the microcontroller and will arrive within a reasonable time.
