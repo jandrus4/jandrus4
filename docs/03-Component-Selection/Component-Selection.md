@@ -2,24 +2,6 @@
 title: Module's Selected Major Components
 ---
 
-## Module's Selected Major Components
-
-The following sections are the selected major components necessary for the rudder subsystem of Team 201.
-
-### Power Management
-
-(**remove this note/placeholder**: this is where your 3.3 volt switching regulator, any other needed power regulator, and power source {if applicable} **THAT WERE SELECTED**)
-
-For more details, review the ["Appendix - Component Selection Process - Power Mangement"](https://embedded-systems-design.github.io/EGR314DataSheetTemplate/Appendix/01-Componet-Selection/Component-Selection-Process/#power-management) selection.
-
-### Actuator
-
-(**remove this note/placeholder**: if applicable, this is where your **Selected** the actuator items go, which includes both the driver and motor. Otherwise, remove this section.)
-
-For more details, review the ["Appendix - Component Selection Process - Actuator"](https://embedded-systems-design.github.io/EGR314DataSheetTemplate/Appendix/01-Componet-Selection/Component-Selection-Process/#actuator) selection.
-
------------
-
 **Barrel Jack Adapter**
 
 1. LDC-061DH-J-005-1AG-19
