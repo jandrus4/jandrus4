@@ -7,7 +7,7 @@ title: Module Schematic
 This schematic is design to support Team 201's project for the Spring 2026 semester of EGR 314. This specific subsystem utilizes a 3.3V switching power regulator which powers a MicroChip microcontroller and motor driver. A stepper motor is connected to the motor driver, which will act as a rudder for the drone as it sails through water.
 
 
-![schematic](rudder_schematic_picture.png){style width:"350" height:"300;"}
+![schematic](schematic_picture.png){style width:"350" height:"300;"}
 **Figure 1:** Details of the rudder subsystem
 
 
