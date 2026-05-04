@@ -4,7 +4,7 @@ title: Module's Selected Major Components
 
 **Summary**
 
-In the final design for this module, the only major parts selected were the microcontroller and voltage regulator. The voltage regulator was the regulator circuit on a custom PCB handed out to all students at the beginning of the semester. The microcontroller was required to be either a Microchip PIC-family microcontroller or an Expressif ESP32-S3-WROOM-1-N4 module. Due to my familiarity with MPLAB X IDE and new exposure to MicroPython, I selected the Curiosity Nano as my microcontroller. You can view the datasheet, which includes the pinout, [here.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/UserGuides/PIC18F57Q43-Curiosity-Nano-HW-UserGuide-DS40002186B.pdf)
+In the final design for this module, the only major parts selected were the microcontroller and voltage regulator. The voltage regulator was the regulator circuit on a custom PCB handed out to all students at the beginning of the semester. The microcontroller was required to be either a Microchip PIC-family microcontroller or an Expressif ESP32-S3-WROOM-1-N4 module. Due to my familiarity with MPLAB X IDE and new exposure to MicroPython, I selected the Curiosity Nano as my microcontroller. You can download the datasheet, which includes the pinout, [here.](PIC18F57Q43-Curiosity-Nano-HW-UserGuide-DS40002186B.pdf)
 
 **Barrel Jack Adapter**
 
