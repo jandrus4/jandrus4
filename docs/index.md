@@ -24,7 +24,7 @@ This datasheet contains the following sections:
 * [04 BOM](https://jandrus4.github.io/jandrus4/04-BOM/BOM/)
 * [05 Schematic](https://jandrus4.github.io/jandrus4/05-Schematic/schematic/)
 * [06 PCB](https://jandrus4.github.io/jandrus4/06-PCB/pcb/)
-* S[07 API](https://jandrus4.github.io/jandrus4/07-API/api/)
+* [07 API](https://jandrus4.github.io/jandrus4/07-API/api/)
 
 ### Project Summary
 
