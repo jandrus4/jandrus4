@@ -18,13 +18,13 @@ for<br>
 
 * **This datasheet will contain all necessary information for Jacob Andrus's module in EGR314**
 This datasheet contains the following sections:
--[01 Requirements](https://jandrus4.github.io/jandrus4/01-Requirements/Requirements/)
--[02 Block Diagram](https://jandrus4.github.io/jandrus4/02-Block-Diagram/Block-Diagram/)
--[03 Component Selection](https://jandrus4.github.io/jandrus4/03-Component-Selection/Component-Selection/)
--[04 BOM](https://jandrus4.github.io/jandrus4/04-BOM/BOM/)
--[05 Schematic](https://jandrus4.github.io/jandrus4/05-Schematic/schematic/)
--[06 PCB](https://jandrus4.github.io/jandrus4/06-PCB/pcb/)
--[07 API](https://jandrus4.github.io/jandrus4/07-API/api/)
+* [01 Requirements](https://jandrus4.github.io/jandrus4/01-Requirements/Requirements/)
+* [02 Block Diagram](https://jandrus4.github.io/jandrus4/02-Block-Diagram/Block-Diagram/)
+* [03 Component Selection](https://jandrus4.github.io/jandrus4/03-Component-Selection/Component-Selection/)
+* [04 BOM](https://jandrus4.github.io/jandrus4/04-BOM/BOM/)
+* [05 Schematic](https://jandrus4.github.io/jandrus4/05-Schematic/schematic/)
+* [06 PCB](https://jandrus4.github.io/jandrus4/06-PCB/pcb/)
+* S[07 API](https://jandrus4.github.io/jandrus4/07-API/api/)
 
 ### Project Summary
 
