@@ -10,6 +10,8 @@ The first block diagram depicts the intended design of Team 201's rudder subsyst
 
 The second block diagram shows the final product's block diagram. Due to a complication in coding and incorrect footprints for the PCB, the final product fell short of what the original design desired. This final design does not include any hardware that would steer the drone. Instead, I have connected 2 separate LEDs, to show how the code receives messages from the controller subsystems then acts on the steering commands.
 
+The final design does not meet product requirements, since it does not have any actuators. The next version of this design would focus more on footprint choices and code prototyping to ensure all product requirements would be met.
+
 ## Rudder System Block Diagram 
 The initial and final block diagrams are displayed below.
 
