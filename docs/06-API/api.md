@@ -16,4 +16,4 @@ Message Type A - Set Steering Angle
 | Max Value | A | E | A | 255|
 | Example | A | E | A | 125 |
 
-The code for Subsystem B2 can be found [*here*](actual_final_rudder_code.X.zip)
+The code for Subsystem B2 can be found [here.](actual_final_rudder_code.X.zip)
