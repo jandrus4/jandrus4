@@ -1,6 +1,6 @@
 site_name: EGR 314 Jacob Andrus DataSheet
 site_url: https://embedded-systems-design.github.io/EGR314DataSheetTemplate
-repo_url: https://github.com/embedded-systems-design/EGR314DataSheetTemplate
+repo_url: https://github.com/jandrus4/jandrus4
 edit_uri: edit/main/docs/
 theme:
   name: material
