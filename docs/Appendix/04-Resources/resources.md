@@ -6,4 +6,4 @@ You can download the code used in the final product of Subsystem B2 [here.](actu
 
 A video showing Subsystem B2 utilizing the UART daisy chain can be viewed here:
 
-[![Watch the video](HxlxxhWw3LE&t=46s)](HxlxxhWw3LE&t=46s)
+[![Watch the video](https://www.youtube.com/watch?v=HxlxxhWw3LE&t=46s)](https://www.youtube.com/watch?v=HxlxxhWw3LE&t=46s)
