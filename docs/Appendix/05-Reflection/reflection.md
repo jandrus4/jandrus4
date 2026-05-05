@@ -30,13 +30,13 @@ Other tips/advice include:
 
 6) Converting between different coding languages can be really difficult.
 
-7) 
+7) It's always good to have lots of test points, debugging buttons and LEDs when you're troubleshooting.
 
-8) 
+8) Constantly ask the teaching team to review your design, even if they said it's fine. Maybe they missed something.
 
-9) 
+9) Talk to multiple people, not just on your team, but also the teaching team. This helps you gain different perspectives.
 
-10) 
+10) Make sure you have multiple components, so that if 1 breaks or never works to begin with, you have at least 1 replacement.
 
 ## Recommendations for future students
 
