@@ -4,7 +4,7 @@ title: Module API
 
 ## Overview
 
-Subsystem B2 will handle all messages passed along the communication daisy chain, but the only message B2 will act upon are the ones that dictate the steering angle. All other messages will simply be passed along until they reach their desired recepient.
+Subsystem B2 will handle all messages passed along the communication daisy chain, but the only message B2 will act upon are the ones that dictate the steering angle. All other messages will simply be passed along until they reach their desired recepient. All other message types can be found on [*this*](https://egr314-s-2026-201.github.io/04-Team-Block-Diagram/Team-Diagram/) page of the team report for Team 201.
 
 Message Type A - Set Steering Angle
 
