@@ -20,12 +20,11 @@ for<br>
 This datasheet contains the following sections:
 * [01 Requirements](https://jandrus4.github.io/jandrus4/01-Requirements/Requirements/)
 * [02 Block Diagram](https://jandrus4.github.io/jandrus4/02-Block-Diagram/Block-Diagram/)
-* [03 Component Selection](https://jandrus4.github.io/jandrus4/03-Component-Selection/Component-Selection/)
-* [04 BOM](https://jandrus4.github.io/jandrus4/04-BOM/BOM/)
-* [05 Schematic](https://jandrus4.github.io/jandrus4/05-Schematic/schematic/)
-* [06 PCB](https://jandrus4.github.io/jandrus4/06-PCB/pcb/)
-* [07 API](https://jandrus4.github.io/jandrus4/07-API/api/)
-* [08 Power Budget](https://jandrus4.github.io/jandrus4/08-Power-Budget/Power-Budget/)
+* [03 BOM](hhttps://jandrus4.github.io/jandrus4/03-BOM/BOM/)
+* [04 Schematic](https://jandrus4.github.io/jandrus4/04-Schematic/schematic/)
+* [05 PCB](https://jandrus4.github.io/jandrus4/05-PCB/pcb/)
+* [06 API](https://jandrus4.github.io/jandrus4/06-API/api/)
+* All other relevant pages can be found in the [Appendix](https://jandrus4.github.io/jandrus4/Appendix/)
 
 ### Project Summary
 
