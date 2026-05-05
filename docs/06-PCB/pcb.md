@@ -4,17 +4,31 @@ title: Module PCB
 
 ## Overview
 
-The rudder's printed circuit board (PCB) can be found here, including the top and bottom copper layers, as well as the silkscreens, solder masks and edge cuts. 
+The rudder's printed circuit board (PCB) can be found here, including the top and bottom copper layers, as well as the silkscreens, solder masks and edge cuts. The final product can also be seen here, with pictures of the finished PCB before and after soldering.
 
 **Figure 1:** Top copper layer of rudder PCB
 
-![schematic_front](PCB_front.png){style width:"350" height:"300;"}
+![pcb_front](PCB_front.png){style width:"350" height:"300;"}
 
 **Figure 2:** Bottom copper layer of rudder PCB
 
-![schematic_back](PCB_back.png){style width:"350" height:"300;"}
+![pcb_back](PCB_back.png){style width:"350" height:"300;"}
 
+**Figure 3:** Front of PCB before soldering
 
+![pcb_front_presolder](pcb_front_presolder.jpg){style width:"350" height:"300;"}
+
+**Figure 4:** Back of PCB before soldering
+
+![pcb_back_presolder](pcb_back_presolder.jpg){style width:"350" height:"300;"}
+
+**Figure 5:** Front of PCB after soldering
+
+![pcb_front_postsolder](pcb_front_postsolder.jpg){style width:"350" height:"300;"}
+
+**Figure 6:** Back of PCB after soldering
+
+![pcb_back_postsolder](pcb_back_postsolder.jpg){style width:"350" height:"300;"}
 
 ## Resouces
 
