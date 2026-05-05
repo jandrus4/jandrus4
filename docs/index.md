@@ -25,6 +25,7 @@ This datasheet contains the following sections:
 * [05 Schematic](https://jandrus4.github.io/jandrus4/05-Schematic/schematic/)
 * [06 PCB](https://jandrus4.github.io/jandrus4/06-PCB/pcb/)
 * [07 API](https://jandrus4.github.io/jandrus4/07-API/api/)
+* [08 Power Budget](https://jandrus4.github.io/jandrus4/08-Power-Budget/Power-Budget/)
 
 ### Project Summary
 
