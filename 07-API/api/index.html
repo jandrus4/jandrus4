@@ -1023,8 +1023,8 @@
   <h1>Module API</h1>
 
 <h2 id="overview">Overview</h2>
-<p>The only API that Subsystem B2 will be handling is receiving commands concerning the steering angle. As Team 201 further develops the prototype, the rudder subsystem may incorporate another possible message that informs the controller of the steering angle the rudder has been positioned to.</p>
-<p>Message type 1 - Set Steering Angle</p>
+<p>Subsystem B2 will handle all messages passed along the communication daisy chain, but the only message B2 will act upon are the ones that dictate the steering angle. All other messages will simply be passed along until they reach their desired recepient.</p>
+<p>Message Type A - Set Steering Angle</p>
 <table>
 <thead>
 <tr>
@@ -1047,32 +1047,33 @@
 <td style="text-align: center;">Variable Type</td>
 <td style="text-align: center;">char</td>
 <td style="text-align: center;">char</td>
-<td style="text-align: center;">uint8_t</td>
+<td style="text-align: center;">char</td>
 <td style="text-align: center;">uint8_t</td>
 </tr>
 <tr>
 <td style="text-align: center;">Min Value</td>
 <td style="text-align: center;">A</td>
 <td style="text-align: center;">E</td>
-<td style="text-align: center;">1</td>
+<td style="text-align: center;">A</td>
 <td style="text-align: center;">0</td>
 </tr>
 <tr>
 <td style="text-align: center;">Max Value</td>
 <td style="text-align: center;">A</td>
 <td style="text-align: center;">E</td>
-<td style="text-align: center;">1</td>
+<td style="text-align: center;">A</td>
 <td style="text-align: center;">255</td>
 </tr>
 <tr>
 <td style="text-align: center;">Example</td>
 <td style="text-align: center;">A</td>
 <td style="text-align: center;">E</td>
-<td style="text-align: center;">1</td>
+<td style="text-align: center;">A</td>
 <td style="text-align: center;">125</td>
 </tr>
 </tbody>
 </table>
+<p>The code for Subsystem B2 can be found <a href="../actual_final_rudder_code.X.zip"><em>here</em></a></p>
 
 
 
