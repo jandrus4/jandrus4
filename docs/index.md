@@ -20,7 +20,7 @@ for<br>
 This datasheet contains the following sections:
 * [01 Requirements](https://jandrus4.github.io/jandrus4/01-Requirements/Requirements/)
 * [02 Block Diagram](https://jandrus4.github.io/jandrus4/02-Block-Diagram/Block-Diagram/)
-* [03 BOM](hhttps://jandrus4.github.io/jandrus4/03-BOM/BOM/)
+* [03 BOM](https://jandrus4.github.io/jandrus4/03-BOM/BOM/)
 * [04 Schematic](https://jandrus4.github.io/jandrus4/04-Schematic/schematic/)
 * [05 PCB](https://jandrus4.github.io/jandrus4/05-PCB/pcb/)
 * [06 API](https://jandrus4.github.io/jandrus4/06-API/api/)
@@ -34,4 +34,4 @@ This datasheet contains the following sections:
 ### My Contribution
 
 * This datasheet focuses on my contributions to Team 201, which is the subsystem B2, the rudder control system.
-* To review the details listed of the material used to construct the subsection, you can review it in the ["BOM"](https://jandrus4.github.io/jandrus4/04-BOM/BOM/) section of the datasheet.
+* To review the details listed of the material used to construct the subsection, you can review it in the ["BOM"](https://jandrus4.github.io/jandrus4/03-BOM/BOM/) section of the datasheet.

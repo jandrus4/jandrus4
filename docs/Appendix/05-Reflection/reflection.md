@@ -22,13 +22,13 @@ Other tips/advice include:
 
 2) I've learned how important footprint sizes are to your PCB design.
 
-3) 
+3) Apparently, unlike through-hole mounts, there are different kinds of surface-mount components. Some have legs sticking out and some don't.
 
-4) 
+4) It's really important to build your prototype circuit on a breadboard first, to make sure it works.
 
-5) 
+5) Soldering is already hard if you don't have steady hands, but surface-mount is significantly harder.
 
-6) 
+6) Converting between different coding languages can be really difficult.
 
 7) 
 
