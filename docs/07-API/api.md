@@ -4,14 +4,16 @@ title: Module API
 
 ## Overview
 
-The only API that Subsystem B2 will be handling is receiving commands concerning the steering angle. As Team 201 further develops the prototype, the rudder subsystem may incorporate another possible message that informs the controller of the steering angle the rudder has been positioned to.
+Subsystem B2 will handle all messages passed along the communication daisy chain, but the only message B2 will act upon are the ones that dictate the steering angle. All other messages will simply be passed along until they reach their desired recepient.
 
-Message type 1 - Set Steering Angle
+Message Type A - Set Steering Angle
 
 ||**Byte 1** |**Byte 2**|**Byte 3**|**Byte 4**|
 | :-------: | :-------: | :-------: | :-------: | :-------: |
 | Variable Name | Sender_ID | Reciever_ID | Message_Type | Angle |
-| Variable Type | char | char | uint8_t | uint8_t |
-| Min Value | A | E |1 | 0 |
-| Max Value | A | E | 1| 255|
-| Example | A | E |1 | 125 | 
+| Variable Type | char | char | char | uint8_t |
+| Min Value | A | E | A | 0 |
+| Max Value | A | E | A | 255|
+| Example | A | E | A | 125 |
+
+The code for Subsystem B2 can be found [*here*](actual_final_rudder_code.X.zip)
